@@ -1,4 +1,10 @@
-## Hi there 👋
+# This is `Swamy The Learner !!` 👋
+
+## Welcome, let's learn 📚 together  🙋‍♀️🙋‍♂️ and grow 🌱 together
+
+## 🙋‍♀️ This organization aims to provide a decent learning experience to `the learners`
+
+## 👩‍💻 Please refer [tech-skillz-academy-main](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/tech-skillz-academy-main) repository for the documentation / resources
 
 <!--
 
