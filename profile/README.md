@@ -1,4 +1,4 @@
-# This is `Swamy The Learner !!` 👋
+# ✌️ Welcome to `Swamy's Tech Skills Academy` 👋
 
 ## Welcome, let's learn 📚 together  🙋‍♀️🙋‍♂️ and grow 🌱 together
 
