@@ -4,7 +4,7 @@
 
 ## 🙋‍♀️ This organization aims to provide a decent learning experience to `the learners`
 
-## 👩‍💻 Please refer [tech-skillz-academy-main](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/tech-skillz-academy-main) repository for the documentation / resources
+## 👩‍💻 Please refer [Swamy's Tech Skills Academy Main](https://github.com/Swamy-s-Tech-Skills-Academy/swamy-tech-skills-academy-main) repository for the documentation / resources
 
 <!--
 
